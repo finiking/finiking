@@ -36,6 +36,19 @@
 
 ---
 
+### Featured Project
+
+<a href="https://github.com/ZSeven-W/openpencil">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZSeven-W&repo=openpencil&theme=tokyonight&hide_border=true" />
+</a>
+
+**[OpenPencil](https://github.com/ZSeven-W/openpencil)** — Open-source vector design tool with Design-as-Code philosophy.
+Design on an infinite canvas, generate React + Tailwind code, and let AI build entire screens from a single prompt.
+
+`React 19` `Fabric.js` `Claude AI` `Electron` `Tailwind CSS` `Bun`
+
+---
+
 ### GitHub Stats
 
 <p align="center">

@@ -39,8 +39,14 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=finiking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finiking&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=finiking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=finiking&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=finiking&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=finiking&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
 </p>
 
 <p align="center">
@@ -55,7 +61,7 @@
 AI Agents        ████████████████████░░   90%
 LLM Workflows    ██████████████████░░░░   80%
 Full Stack Dev   ████████████████░░░░░░   70%
-Open Source       ██████████████░░░░░░░░   60%
+Open Source      ██████████████░░░░░░░░   60%
 ```
 
 ---

@@ -49,6 +49,14 @@ Design on an infinite canvas, generate React + Tailwind code, and let AI build e
 
 ---
 
+<p align="center">
+  <video controls playsinline preload="metadata" poster="./screenshot/demo.png" width="100%">
+    <source src="https://i.imgur.com/yiu2GTt_lq.mp4" type="video/mp4" />
+  </video>
+</p>
+
+---
+
 ### GitHub Stats
 
 <p align="center">

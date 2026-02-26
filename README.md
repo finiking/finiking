@@ -48,7 +48,7 @@ Design on an infinite canvas, generate React + Tailwind code, and let AI build e
 `React 19` `Fabric.js` `Claude AI` `Electron` `Tailwind CSS` `Bun`
 
 <p align="center">
-  <video controls playsinline preload="metadata" poster="./screenshot/op-cover.png" width="100%">
+  <video controls playsinline preload="metadata" poster="https://i.imgur.com/MykJJpp.png" width="100%">
     <source src="https://i.imgur.com/yiu2GTt_lq.mp4" type="video/mp4" />
   </video>
 </p>

@@ -49,7 +49,7 @@ Design on an infinite canvas, generate React + Tailwind code, and let AI build e
 
 <p align="center">
   <a href="https://i.imgur.com/yiu2GTt_lq.mp4">
-    <img src="./screenshot/op-cover.png" alt="OpenPencil demo video (click to play)" width="100%" />
+    <img src="https://i.imgur.com/MykJJpp.png" alt="OpenPencil demo video (click to play)" width="100%" />
   </a>
 </p>
 <p align="center">

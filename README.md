@@ -48,12 +48,12 @@ Design on an infinite canvas, generate React + Tailwind code, and let AI build e
 `React 19` `Fabric.js` `Claude AI` `Electron` `Tailwind CSS` `Bun`
 [test](https://i.imgur.com/yiu2GTt.gif)
 <p align="center">
-  <a href="https://i.imgur.com/yiu2GTt_lq.mp4">
+  <a href="https://oss.ioa.tech/zseven/openpencil/a46e24733239ce24de36702342201033.mp4">
     <img src="https://i.imgur.com/MykJJpp.png" alt="OpenPencil demo video (click to play)" width="100%" />
   </a>
 </p>
 <p align="center">
-  <a href="https://i.imgur.com/yiu2GTt_lq.mp4"><strong>▶ Watch demo video</strong></a>
+  <a href="https://oss.ioa.tech/zseven/openpencil/a46e24733239ce24de36702342201033.mp4"><strong>▶ Watch demo video</strong></a>
 </p>
 
 ---

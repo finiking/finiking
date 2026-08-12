@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm finiking <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hey, I'm Fini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
   <b>AI & Full Stack Developer</b> · Shanghai, China
@@ -41,10 +41,10 @@
 
 ---
 
-### Featured Project
+### Featured Projects
 
 <a href="https://github.com/ZSeven-W/openpencil">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZSeven-W&repo=openpencil&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=ZSeven-W&repo=openpencil&theme=tokyonight&hide_border=true" />
 </a>
 
 **[OpenPencil](https://github.com/ZSeven-W/openpencil)** — Open-source vector design tool with Design-as-Code philosophy.
@@ -52,23 +52,45 @@ Design on an infinite canvas, generate React + Tailwind code, and let AI build e
 
 `React 19` `Fabric.js` `Claude AI` `Electron` `Tailwind CSS` `Bun`
 
+<br />
+
+<a href="https://github.com/ZSeven-W/zode">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=ZSeven-W&repo=zode&theme=tokyonight&hide_border=true" />
+</a>
+
+**[Zode](https://github.com/ZSeven-W/zode)** — Open-source, AI-native coding assistant for your terminal.
+Reads your code, runs commands, searches files, and manages Git from a fast Rust TUI.
+
+`Rust` `Ratatui` `Multi-provider` `MCP` `TUI`
+
+<br />
+
+<a href="https://github.com/ZSeven-W/jian">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=ZSeven-W&repo=jian&theme=tokyonight&hide_border=true" />
+</a>
+
+**[Jian](https://github.com/ZSeven-W/jian)** — A Rust-native cross-platform UI framework.
+One `.op` file becomes a native, interactive, AI-controllable app.
+
+`Rust` `winit` `Skia` `Taffy` `.op` `MCP`
+
 ---
 
 ### GitHub Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=finiking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=finiking&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=finiking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=finiking&show_icons=true&theme=default&hide_border=true&count_private=true" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=finiking&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=finiking&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=finiking&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=finiking&layout=compact&theme=default&hide_border=true&langs_count=8" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=finiking&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=finiking&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
